@@ -14,7 +14,7 @@ __arrow_length:__ the length of arrow
 
 #### you should change the para above to adjust different imgs.
 
-<img width="600" height="350" src="https://github.com/Wu-Xiuchao/Optical_flow/blob/master/example.png"/>
+<img width="600" height="350" src="https://github.com/Wu-Xiuchao/Optical-flow/blob/master/example.png"/>
 
 test video：  
 ```
